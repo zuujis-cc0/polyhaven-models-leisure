@@ -1,5 +1,17 @@
 {
- "assets": {},
+ "assets": {
+  "Ukulele_01": "b4e3018d389e983dde250c867172db7ab1214945",
+  "american_football": "630730f427030fafc03ea9dd612b9ed5afd2f233",
+  "baseball_01": "2570badfc665299a65e2d65140a8e7f66b9ef413",
+  "baseball_bat": "bb924159d456d825d56e81ca0efd769db1e504d2",
+  "chess_set": "fe02fd16e17017a92c414b79d7f81047708e89ee",
+  "dartboard": "5e28b6807f86ea1c78ac3198ac93d24bb8130e1f",
+  "dirty_football": "b27ae02f28eda2ef7e2b5ee925fdad06b3346617",
+  "football": "ccfb473fa6dd628cc3aa9b934c706723730454b8",
+  "rubber_duck_toy": "00cce7478ed6c66264d09711f2ce55c1fc7b096c",
+  "sungka_board": "592332c0812a265afac115c04f4ee1e1f1ea7949",
+  "sungka_board_02": "343a77c8c6da8429ecf0838f1abcb2105e572ebd"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
